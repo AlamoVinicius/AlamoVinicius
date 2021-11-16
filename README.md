@@ -1,4 +1,4 @@
-# Olá Seja bem vindo ao meu GitHub :hand:
+# Olá Seja bem vindo ao meu GitHub :wave:
 ### *Iniciante na carreira de programação. Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
 *Atualmente estou aprendendo* __JavaScript__, __HTML__, __CSS__, __C#__.
 

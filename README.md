@@ -10,8 +10,8 @@
 
 
 <a href="https://github.com/AlamoVinicius">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=AlamoVinicius&show_icons=true&theme=highcontrast" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=AlamoVinicius&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://github.com/AlamoVinicius">
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamoVinicius&layout=compact&theme=highcontrast" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamoVinicius&layout=compact&theme=highcontrast" />
 </a>

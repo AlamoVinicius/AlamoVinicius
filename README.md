@@ -1,5 +1,5 @@
 # Olá Seja bem vindo ao meu GitHub :wave:
-### *Iniciante na carreira de programação. Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
+### *Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
 *Atualmente estou aprendendo* __C#__, __React e React native__, __Php__. 
 
 *Tecnologias e ferramentas*: __PYTHON__, __VScode__, __Pycharm__, __GIT/GITHUB__, __JUPYTER__, __JavaScript__, __HTML__, __CSS__,.

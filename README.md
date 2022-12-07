@@ -3,6 +3,8 @@
 
 ### *Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
 
+*Atualmente estou aprendendo*: __Flutter__ :)
+
 *Tecnologias e ferramentas*: __React native__, __React.js__, __GIT/GITHUB__, __JavaScript__, __HTML__, __CSS__, __Python__, __MongoDb__, __MySQL__, ___Node.js__,.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamovinicius)

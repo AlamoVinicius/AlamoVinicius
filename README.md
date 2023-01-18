@@ -3,6 +3,8 @@
 
 ### *Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
 
+*Desenvolvedor fullStack em javaScript*
+
 *Atualmente estou aprendendo*: __Flutter__ :)
 
 *Tecnologias e ferramentas*: __React native__, __React.js__, __GIT/GITHUB__, __JavaScript__, __HTML__, __CSS__, __Python__, __MongoDb__, __MySQL__, ___Node.js__,.

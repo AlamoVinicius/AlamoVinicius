@@ -3,11 +3,9 @@
 
 ### *Aqui você pode encontrar todos os meus projetos pessoais e arquivos de estudo.*
 
-*Desenvolvedor fullStack em javaScript*
+*Desenvolvedor fullStack em javaScript e mobile com flutter e React Native*
 
-*Atualmente estou aprendendo*: __Flutter__ :)
-
-*Tecnologias e ferramentas*: __React native__, __React.js__, __GIT/GITHUB__, __JavaScript__, __HTML__, __CSS__, __Python__, __MongoDb__, __MySQL__, ___Node.js__,.
+*Tecnologias e ferramentas*: __React native__, __React.js__, __Flutter__, __NodeJs__, __GIT/GITHUB__, __JavaScript__, __HTML__, __CSS__, __Python__, __MongoDb__, __MySQL__, ___Node.js__,.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamovinicius)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alamovsouza/)
